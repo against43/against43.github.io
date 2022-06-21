@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "lirich674"
+title                    : "against43"
 title_separator          : "-"
-name                     : &name "lirich674"
+name                     : &name "agaisnt43"
 description              : &description "personal description"
 url                      : https://liuqian62.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
